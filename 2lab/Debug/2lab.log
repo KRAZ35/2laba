@@ -1,0 +1,4 @@
+﻿  main.cpp
+X:\Учёба\ТП 3 сем\2\2lab\main.cpp(14,6): warning C4101: minaf: неиспользованная локальная переменная
+X:\Учёба\ТП 3 сем\2\2lab\main.cpp(14,13): warning C4101: houraf: неиспользованная локальная переменная
+  2lab.vcxproj -> X:\Учёба\ТП 3 сем\2\2lab\Debug\2lab.exe
